@@ -41,7 +41,11 @@
 * Autoboxing creates unnescesary objects
 * prototype factory pattern
 
-
+# Common Object Methods
+* Equals
+* hashcode
+* clone
+* 
 
 
 
